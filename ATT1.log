@@ -1,0 +1,107 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffc00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is ffff ====>>>>
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffc00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is ffff ====>>>>
+Please check MEM_SIZE to satisfy VAULT arity!
+<<<<======== The vault is ready ========>>>>
+Please check MEM_SIZE to satisfy VAULT arity!
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled May  4 2024 20:42:34
+gem5 started May  4 2024 20:44:40
+gem5 executing on wxrqw, pid 19103
+command line: ./gem5-riscv/gem5/build/RISCV/gem5.opt -d ./gem5-riscv/gem5/m5out/checkpoint2 ./gem5-riscv/gem5/configs/example/gem5_library/riscv-fs.py --cptPath xx -timing
+
+Beginning simulation!
+Checkpoint is YOUR_PATH/gem5/m5out/checkpoint2/cpt.13371155711500
+13371160619120: board.platform.terminal: attach terminal 0
+====<<<<ECNALVE>>>>====: StateEnc IDLE
+predication dump: 12167 / 99624 wait( 12309 ) totalPrefetch: 70988 gap prediction Time: 0 Write prediction status 0 / 376 PrefetchCycle: 2865558 HashGroup Average: 0.998619 Mem Avg.Gap: 64008.3 Hash Max NUM: 1 aesCycle: 2618572 find in AES entry: 11301 EncCacheHit: 0.970297 EncMacheHit: 0.945314 33157703608
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+Ready to perform attack...
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 
+Checking ...  ATT1: attack happen! 
+Regular physical attack detected! 

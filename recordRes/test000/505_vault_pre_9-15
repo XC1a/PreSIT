@@ -1,0 +1,185 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffe00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is 7fff ====>>>>
+<<<<======== The vault is ready ========>>>>
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Sep 15 2023 16:45:13
+gem5 started Sep 15 2023 16:46:36
+gem5 executing on wxrqw, pid 1176052
+command line: ./build/RISCV/gem5.opt configs/example/gem5_library/riscv-fs.py
+
+Beginning simulation!
+SET FLAG
+516454749992: board.platform.terminal: attach terminal 0
+<<<<==== xxxx SET INST COUNTER 0 xxxx ====>>>>
+<<<<==== xxxx SET INST COUNTER 2147483648 xxxx ====>>>>
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+<<<<==== xxxx TEST Continue xxxx ====>>>> 256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> a256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> b256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> c256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> d256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> e256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> f256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 10256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 11256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 12256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 13256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 14256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 15256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 16256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 17256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 18256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 19256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1a256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1b256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1c256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1d256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1e256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1f256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 20256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 21256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 22256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 23256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 24256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 25256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 26256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 27256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 28256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 29256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2a256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2b256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2c256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2d256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2e256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2f256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 30256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 31256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 32256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 33256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 34256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 35256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 36256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 37256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 38256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 39256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3a256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3b256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3c256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3d256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3e256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3f256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 40256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 41256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 42256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 43256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 44256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 45256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 46256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 47256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 48256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 49256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4a256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4b256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4c256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4d256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4e256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4f256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 50256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 51256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 52256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 53256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 54256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 55256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 56256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 57256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 58256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 59256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5a256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5b256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5c256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5d256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5e256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5f256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 60256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 61256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 62256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 63256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 64256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 65256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 66256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 67256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 68256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 69256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6a256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6b256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6c256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6d256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6e256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6f256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 70256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 71256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 72256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 73256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 74256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 75256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 76256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 77256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 78256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 79256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7a256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7b256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7c256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7d256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7e256bb9
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7f256bb9
+<<<<==== xxxx TEST READY END xxxx ====>>>>
+ ______     __   __     ______     __         ______     __   __   ______    
+/\  ___\   /\ "-.\ \   /\  ___\   /\ \       /\  __ \   /\ \ / /  /\  ___\   
+\ \  __\   \ \ \-.  \  \ \ \____  \ \ \____  \ \  __ \  \ \ \//   \ \  __\   
+ \ \_____\  \ \_\ "\_\  \ \_____\  \ \_____\  \ \_\ \_\  \ \__|    \ \_____\ 
+  \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_/\/_/   \/_/      \/_____/ 
+                                                                             
+<<<< 1  >>>> Total time exclude encrypt/hash. Result: 8628855365
+<<<< 2  >>>> Time of encrypt. Result: 68642480
+<<<< 3  >>>> Time of decrypt. Result: 1781520
+<<<< 4  >>>> Time of hash. Result: 68670880
+<<<< 5  >>>> Time of cache access. Result: 256580440
+<<<< 6  >>>> Total time. Result: 10065579771
+<<<< 7  >>>> Read Req. Result: 27676105
+<<<< 8  >>>> Write Req. Result: 794202
+<<<< 9  >>>> Warnning. Pre not Requal Req. Result: 0
+<<<< 10 >>>> Counter Reset. Result: 355
+<<<< 11 >>>> Counter Reset read. Result: 22269
+<<<< 12 >>>> Counter Reset write. Result: 22269
+<<<< 13 >>>> Counter Reset hashTime. Result: 1781520
+<<<< 14 >>>> Counter Reset encryption. Result: 1781520
+<<<< 15 >>>> Counter Reset decryption. Result: 1781520
+
+EncCache <<<< 1 >>>> Read. Result: 124944606
+EncCache <<<< 2 >>>> Read hit. Result: 107301981
+EncCache <<<< 3 >>>> Write. Result: 3345614
+EncCache <<<< 4 >>>> Write hit. Result: 2826844
+EncCache <<<< 5 >>>> hit rate. Result: 0.858435
+
+Prediction <<<< 1 >>>> Success. Result: 3245195
+Prediction <<<< 2 >>>> RecvNew During Prediction. Result: 5697275
+Prediction <<<< 3 >>>> Read AES Bias. Result: 729960050
+Prediction <<<< 4 >>>> Hash Bias. Result: 311089036

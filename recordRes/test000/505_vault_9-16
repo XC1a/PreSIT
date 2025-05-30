@@ -1,0 +1,25 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffe00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is 7fff ====>>>>
+<<<<======== The vault is ready ========>>>>
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Sep 16 2023 20:35:30
+gem5 started Sep 16 2023 20:37:06
+gem5 executing on wxrqw, pid 1191102
+command line: ./build/RISCV/gem5.opt configs/example/gem5_library/riscv-fs.py
+
+Beginning simulation!
+63317587000: board.platform.terminal: attach terminal 0
+SET FLAG
+<<<<==== xxxx SET INST COUNTER 0 xxxx ====>>>>
+<<<<==== xxxx SET INST COUNTER 2147483648 xxxx ====>>>>
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1e3986

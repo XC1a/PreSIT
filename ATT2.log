@@ -1,0 +1,149 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffc00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is ffff ====>>>>
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffc00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is ffff ====>>>>
+Please check MEM_SIZE to satisfy VAULT arity!
+<<<<======== The vault is ready ========>>>>
+Please check MEM_SIZE to satisfy VAULT arity!
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled May  6 2024 13:43:20
+gem5 started May  6 2024 13:49:05
+gem5 executing on wxrqw, pid 8648
+command line: ./gem5-riscv/gem5/build/RISCV/gem5.opt -d ./gem5-riscv/gem5/m5out/checkpoint2 ./gem5-riscv/gem5/configs/example/gem5_library/riscv-fs.py --cptPath xx -timing
+
+Beginning simulation!
+Checkpoint is YOUR_PATH/gem5/m5out/checkpoint2/cpt.13371155711500
+13371160619120: board.platform.terminal: attach terminal 0
+====<<<<ECNALVE>>>>====: StateEnc IDLE
+predication dump: 12170 / 99642 wait( 12341 ) totalPrefetch: 71152 gap prediction Time: 0 Write prediction status 0 / 358 PrefetchCycle: 2862954 HashGroup Average: 0.998665 Mem Avg.Gap: 47359 Hash Max NUM: 1 aesCycle: 2619184 find in AES entry: 11154 EncCacheHit: 0.97028 EncMacheHit: 0.945735 31492765228
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+Ready to perform replay attack...
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 
+Checking ...  ATT2: attack happen! 
+replay attack detected! 

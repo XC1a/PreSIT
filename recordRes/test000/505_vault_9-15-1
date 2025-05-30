@@ -1,0 +1,59 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffe00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is 7fff ====>>>>
+<<<<======== The vault is ready ========>>>>
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Sep 15 2023 22:28:42
+gem5 started Sep 15 2023 23:13:33
+gem5 executing on wxrqw, pid 1182890
+command line: ./build/RISCV/gem5.opt configs/example/gem5_library/riscv-fs.py
+
+Beginning simulation!
+3442435000: board.platform.terminal: attach terminal 0
+SET FLAG
+<<<<==== xxxx SET INST COUNTER 0 xxxx ====>>>>
+<<<<==== xxxx SET INST COUNTER 2147483648 xxxx ====>>>>
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+<<<<==== xxxx TEST Continue xxxx ====>>>> c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> ac00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> bc00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> cc00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> dc00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> ec00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> fc00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 10c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 11c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 12c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 13c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 14c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 15c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 16c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 17c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 18c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 19c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1ac00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1bc00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1cc00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1dc00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1ec00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1fc00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 20c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 21c00a3d
+<<<<==== xxxx TEST Continue xxxx ====>>>> 22c00a3d

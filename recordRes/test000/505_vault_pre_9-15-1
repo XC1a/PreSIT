@@ -1,0 +1,185 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffe00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is 7fff ====>>>>
+<<<<======== The vault is ready ========>>>>
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Sep 15 2023 19:02:15
+gem5 started Sep 15 2023 19:06:21
+gem5 executing on wxrqw, pid 1179671
+command line: ./build/RISCV/gem5.opt configs/example/gem5_library/riscv-fs.py
+
+Beginning simulation!
+SET FLAG
+1463106435500: board.platform.terminal: attach terminal 0
+<<<<==== xxxx SET INST COUNTER 0 xxxx ====>>>>
+<<<<==== xxxx SET INST COUNTER 2147483648 xxxx ====>>>>
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 107d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 207d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 307d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 407d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 507d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 607d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 707d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 807d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 907d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> a07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> b07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> c07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> d07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> e07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> f07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1007d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1107d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1207d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1307d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1407d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1507d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1607d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1707d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1807d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1907d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1a07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1b07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1c07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1d07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1e07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1f07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2007d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2107d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2207d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2307d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2407d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2507d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2607d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2707d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2807d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2907d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2a07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2b07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2c07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2d07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2e07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2f07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3007d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3107d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3207d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3307d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3407d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3507d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3607d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3707d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3807d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3907d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3a07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3b07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3c07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3d07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3e07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3f07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4007d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4107d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4207d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4307d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4407d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4507d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4607d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4707d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4807d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4907d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4a07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4b07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4c07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4d07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4e07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4f07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5007d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5107d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5207d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5307d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5407d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5507d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5607d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5707d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5807d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5907d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5a07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5b07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5c07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5d07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5e07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5f07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6007d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6107d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6207d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6307d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6407d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6507d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6607d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6707d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6807d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6907d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6a07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6b07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6c07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6d07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6e07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6f07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7007d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7107d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7207d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7307d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7407d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7507d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7607d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7707d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7807d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7907d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7a07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7b07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7c07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7d07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7e07d8f5
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7f07d8f5
+<<<<==== xxxx TEST READY END xxxx ====>>>>
+ ______     __   __     ______     __         ______     __   __   ______    
+/\  ___\   /\ "-.\ \   /\  ___\   /\ \       /\  __ \   /\ \ / /  /\  ___\   
+\ \  __\   \ \ \-.  \  \ \ \____  \ \ \____  \ \  __ \  \ \ \//   \ \  __\   
+ \ \_____\  \ \_\ "\_\  \ \_____\  \ \_____\  \ \_\ \_\  \ \__|    \ \_____\ 
+  \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_/\/_/   \/_/      \/_____/ 
+                                                                             
+<<<< 1  >>>> Total time exclude encrypt/hash. Result: 26311502033
+<<<< 2  >>>> Time of encrypt. Result: 317659040
+<<<< 3  >>>> Time of decrypt. Result: 6908800
+<<<< 4  >>>> Time of hash. Result: 317769760
+<<<< 5  >>>> Time of cache access. Result: 788391122
+<<<< 6  >>>> Total time. Result: 30826126504
+<<<< 7  >>>> Read Req. Result: 83021603
+<<<< 8  >>>> Write Req. Result: 3715774
+<<<< 9  >>>> Warnning. Pre not Requal Req. Result: 0
+<<<< 10 >>>> Counter Reset. Result: 1384
+<<<< 11 >>>> Counter Reset read. Result: 86360
+<<<< 12 >>>> Counter Reset write. Result: 86360
+<<<< 13 >>>> Counter Reset hashTime. Result: 6908800
+<<<< 14 >>>> Counter Reset encryption. Result: 6908800
+<<<< 15 >>>> Counter Reset decryption. Result: 6908800
+
+EncCache <<<< 1 >>>> Read. Result: 378647659
+EncCache <<<< 2 >>>> Read hit. Result: 325552137
+EncCache <<<< 3 >>>> Write. Result: 15547902
+EncCache <<<< 4 >>>> Write hit. Result: 13249835
+EncCache <<<< 5 >>>> hit rate. Result: 0.859477
+
+Prediction <<<< 1 >>>> Success. Result: 9502387
+Prediction <<<< 2 >>>> RecvNew During Prediction. Result: 16586721
+Prediction <<<< 3 >>>> Read AES Bias. Result: 2158148582
+Prediction <<<< 4 >>>> Hash Bias. Result: 925747167

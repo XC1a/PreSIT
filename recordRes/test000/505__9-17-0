@@ -1,0 +1,185 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffe00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is 7fff ====>>>>
+<<<<======== The vault is ready ========>>>>
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Sep 17 2023 16:46:33
+gem5 started Sep 17 2023 16:48:09
+gem5 executing on wxrqw, pid 1202299
+command line: ./build/RISCV/gem5.opt configs/example/gem5_library/riscv-fs.py
+
+Beginning simulation!
+SET FLAG
+<<<<==== xxxx SET INST COUNTER 0 xxxx ====>>>>
+1133076900043920: board.platform.terminal: attach terminal 0
+<<<<==== xxxx SET INST COUNTER 2147483648 xxxx ====>>>>
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+<<<<==== xxxx TEST Continue xxxx ====>>>> a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> aa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> ba30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> ca30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> da30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> ea30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> fa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 10a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 11a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 12a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 13a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 14a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 15a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 16a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 17a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 18a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 19a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1aa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1ba30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1ca30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1da30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1ea30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1fa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 20a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 21a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 22a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 23a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 24a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 25a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 26a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 27a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 28a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 29a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2aa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2ba30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2ca30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2da30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2ea30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2fa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 30a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 31a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 32a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 33a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 34a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 35a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 36a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 37a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 38a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 39a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3aa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3ba30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3ca30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3da30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3ea30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3fa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 40a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 41a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 42a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 43a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 44a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 45a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 46a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 47a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 48a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 49a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4aa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4ba30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4ca30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4da30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4ea30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4fa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 50a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 51a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 52a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 53a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 54a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 55a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 56a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 57a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 58a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 59a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5aa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5ba30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5ca30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5da30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5ea30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5fa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 60a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 61a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 62a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 63a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 64a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 65a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 66a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 67a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 68a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 69a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6aa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6ba30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6ca30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6da30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6ea30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6fa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 70a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 71a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 72a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 73a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 74a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 75a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 76a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 77a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 78a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 79a30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7aa30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7ba30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7ca30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7da30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7ea30a8a
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7fa30a8a
+<<<<==== xxxx TEST READY END xxxx ====>>>>
+ ______     __   __     ______     __         ______     __   __   ______    
+/\  ___\   /\ "-.\ \   /\  ___\   /\ \       /\  __ \   /\ \ / /  /\  ___\   
+\ \  __\   \ \ \-.  \  \ \ \____  \ \ \____  \ \  __ \  \ \ \//   \ \  __\   
+ \ \_____\  \ \_\ "\_\  \ \_____\  \ \_____\  \ \_\ \_\  \ \__|    \ \_____\ 
+  \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_/\/_/   \/_/      \/_____/ 
+                                                                             
+<<<< 1  >>>> Total time exclude encrypt/hash. Result: 22796506770
+<<<< 2  >>>> Time of encrypt. Result: 0
+<<<< 3  >>>> Time of decrypt. Result: 0
+<<<< 4  >>>> Time of hash. Result: 0
+<<<< 5  >>>> Time of cache access. Result: 0
+<<<< 6  >>>> Total time. Result: 22796506770
+<<<< 7  >>>> Read Req. Result: 0
+<<<< 8  >>>> Write Req. Result: 0
+<<<< 9  >>>> Warnning. Pre not Requal Req. Result: 0
+<<<< 10 >>>> Counter Reset. Result: 0
+<<<< 11 >>>> Counter Reset read. Result: 0
+<<<< 12 >>>> Counter Reset write. Result: 0
+<<<< 13 >>>> Counter Reset hashTime. Result: 0
+<<<< 14 >>>> Counter Reset encryption. Result: 0
+<<<< 15 >>>> Counter Reset decryption. Result: 0
+
+EncCache <<<< 1 >>>> Read. Result: 0
+EncCache <<<< 2 >>>> Read hit. Result: 0
+EncCache <<<< 3 >>>> Write. Result: 0
+EncCache <<<< 4 >>>> Write hit. Result: 0
+EncCache <<<< 5 >>>> hit rate. Result: -nan
+
+Prediction <<<< 1 >>>> Success. Result: 0
+Prediction <<<< 2 >>>> RecvNew During Prediction. Result: 0
+Prediction <<<< 3 >>>> Read AES Bias. Result: 0
+Prediction <<<< 4 >>>> Hash Bias. Result: 0

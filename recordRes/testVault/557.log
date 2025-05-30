@@ -1,0 +1,110 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffe00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is 7fff ====>>>>
+Please check MEM_SIZE to satisfy VAULT arity!
+<<<<======== The vault is ready ========>>>>
+Please check MEM_SIZE to satisfy VAULT arity!
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Oct  7 2023 18:04:49
+gem5 started Oct  7 2023 23:52:42
+gem5 executing on wxrqw, pid 2107038
+command line: YOUR_PATH/gem5/build/RISCV/gem5.opt -d YOUR_PATH/gem5/m5out/checkpoint2 YOUR_PATH/gem5/configs/example/gem5_library/riscv-fs.py --cptPath xx --script YOUR_PATH/programs/scripts/SPEC/run_557.sh
+
+Beginning simulation!
+====<<<<ECNALVE>>>>====: StateEnc IDLE
+<<<<==== xxxx SET INST COUNTER 4294967296 xxxx ====>>>>
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+<<<<==== xxxx TEST Continue xxxx ====>>>> a6020a curCycle 26886020649
+<<<<==== xxxx TEST Continue xxxx ====>>>> 17a9548 curCycle 27037656557
+<<<<==== xxxx TEST Continue xxxx ====>>>> 24f0ea0 curCycle 27189156202
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3238882 curCycle 27339975940
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3f82459 curCycle 27494984606
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4ccc2fd curCycle 27646644268
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5a15ca2 curCycle 27802235620
+<<<<==== xxxx TEST Continue xxxx ====>>>> 675cff8 curCycle 27954560701
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9f0cf19 curCycle 28126799142
+<<<<==== xxxx TEST Continue xxxx ====>>>> f9b40ef curCycle 28299115793
+<<<<==== xxxx TEST Continue xxxx ====>>>> 14807303 curCycle 28453247347
+<<<<==== xxxx TEST Continue xxxx ====>>>> 18e91dce curCycle 28602704805
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1d938e59 curCycle 28770921580
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2671beae curCycle 29005654870
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2ed2fd15 curCycle 29232893588
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2fa32d4c curCycle 29418431188
+<<<<==== xxxx TEST Continue xxxx ====>>>> 30735d5a curCycle 29603843261
+<<<<==== xxxx TEST Continue xxxx ====>>>> 31438f37 curCycle 29791439048
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3213f19d curCycle 29964969835
+<<<<==== xxxx TEST Continue xxxx ====>>>> 32e5835b curCycle 30087991395
+<<<<==== xxxx TEST Continue xxxx ====>>>> 33b72015 curCycle 30211315093
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3488b130 curCycle 30334668374
+<<<<==== xxxx TEST Continue xxxx ====>>>> 355a4b13 curCycle 30459788104
+<<<<==== xxxx TEST Continue xxxx ====>>>> 362bdaf1 curCycle 30582603662
+<<<<==== xxxx TEST Continue xxxx ====>>>> 36fd6898 curCycle 30706200336
+<<<<==== xxxx TEST Continue xxxx ====>>>> 37cef727 curCycle 30829770955
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3b505c92 curCycle 30992182976
+<<<<==== xxxx TEST Continue xxxx ====>>>> 442edc57 curCycle 31227658186
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4d0cf9d8 curCycle 31462405065
+<<<<==== xxxx TEST Continue xxxx ====>>>> 55eb7cac curCycle 31696763518
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5ec9d3a5 curCycle 31931167899
+<<<<==== xxxx TEST Continue xxxx ====>>>> 67a832bf curCycle 32165602444
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7086b539 curCycle 32399857890
+<<<<==== xxxx TEST Continue xxxx ====>>>> 79653ad6 curCycle 32634113147
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8243c090 curCycle 32868660511
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8b21eee7 curCycle 33103055042
+<<<<==== xxxx TEST Continue xxxx ====>>>> 94003022 curCycle 33337512565
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9cdeb208 curCycle 33571954699
+<<<<==== xxxx TEST Continue xxxx ====>>>> a5bd1757 curCycle 33806216784
+<<<<==== xxxx TEST Continue xxxx ====>>>> ae9b69e1 curCycle 34040701526
+<<<<==== xxxx TEST Continue xxxx ====>>>> b779ec24 curCycle 34275248232
+<<<<==== xxxx TEST Continue xxxx ====>>>> c0584fc2 curCycle 34509849090
+<<<<==== xxxx TEST Continue xxxx ====>>>> c936d57e curCycle 34744354189
+<<<<==== xxxx TEST Continue xxxx ====>>>> d2152574 curCycle 34978972448
+<<<<==== xxxx TEST Continue xxxx ====>>>> daf353f6 curCycle 35213412176
+<<<<==== xxxx TEST Continue xxxx ====>>>> e3d1d639 curCycle 35447889664
+<<<<==== xxxx TEST Continue xxxx ====>>>> ecb0590d curCycle 35682280079
+<<<<==== xxxx TEST Continue xxxx ====>>>> f58edecb curCycle 35916441773
+<<<<==== xxxx TEST Continue xxxx ====>>>> fe6d0ee1 curCycle 36150752056
+<<<<==== xxxx TEST READY END xxxx ====>>>>
+ ______     __   __     ______     __         ______     __   __   ______    
+/\  ___\   /\ "-.\ \   /\  ___\   /\ \       /\  __ \   /\ \ / /  /\  ___\   
+\ \  __\   \ \ \-.  \  \ \ \____  \ \ \____  \ \  __ \  \ \ \//   \ \  __\   
+ \ \_____\  \ \_\ "\_\  \ \_____\  \ \_____\  \ \_\ \_\  \ \__|    \ \_____\ 
+  \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_/\/_/   \/_/      \/_____/ 
+                                                                             
+<<<< 1  >>>> Total time exclude encrypt/hash. Result: 9422610426
+<<<< 2  >>>> Time of encrypt. Result: 1368238880
+<<<< 3  >>>> Time of decrypt. Result: 99120
+<<<< 4  >>>> Time of hash. Result: 3512399440
+<<<< 5  >>>> Time of cache access. Result: 697878090
+<<<< 6  >>>> Total time. Result: 15140385824
+<<<< 7  >>>> Read Req. Result: 26821966
+<<<< 8  >>>> Write Req. Result: 17080462
+<<<< 9  >>>> Warnning. Pre not Requal Req. Result: 32026027
+<<<< 10 >>>> Counter Reset. Result: 1308
+<<<< 11 >>>> Counter Reset read. Result: 82309
+<<<< 12 >>>> Counter Reset write. Result: 82309
+<<<< 13 >>>> Counter Reset hashTime. Result: 205120
+<<<< 14 >>>> Counter Reset encryption. Result: 99120
+<<<< 15 >>>> Counter Reset decryption. Result: 99120
+<<<< 16 >>>> Counter Reset cryption Bias. Result: 20859
+<<<< 17 >>>> Counter Reset Hash Bias. Result: 21309
+
+EncCache <<<< 1 >>>> Read. Result: 246311544
+EncCache <<<< 2 >>>> Read hit. Result: 236847692
+EncCache <<<< 3 >>>> Write. Result: 102627501
+EncCache <<<< 4 >>>> Write hit. Result: 97964305
+EncCache <<<< 5 >>>> hit rate. Result: 0.959514
+
+Prediction <<<< 1 >>>> Success. Result: 0
+Prediction <<<< 2 >>>> RecvNew During Prediction. Result: 0
+Prediction <<<< 3 >>>> Read AES Bias. Result: 139117700
+Prediction <<<< 4 >>>> Hash Bias. Result: 0
+Prediction <<<< 5 >>>> Prediction save AES time. Result: 0
+Prediction <<<< 6 >>>> Prediction pre-cal bias time. Result: 0

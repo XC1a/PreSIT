@@ -1,0 +1,185 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffe00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is 7fff ====>>>>
+<<<<======== The vault is ready ========>>>>
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Sep 17 2023 11:15:42
+gem5 started Sep 17 2023 11:17:22
+gem5 executing on wxrqw, pid 1200121
+command line: ./build/RISCV/gem5.opt configs/example/gem5_library/riscv-fs.py
+
+Beginning simulation!
+SET FLAG
+<<<<==== xxxx SET INST COUNTER 0 xxxx ====>>>>
+69146578340000: board.platform.terminal: attach terminal 0
+<<<<==== xxxx SET INST COUNTER 2147483648 xxxx ====>>>>
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+<<<<==== xxxx TEST Continue xxxx ====>>>> 146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> a146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> b146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> c146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> d146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> e146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> f146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 10146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 11146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 12146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 13146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 14146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 15146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 16146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 17146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 18146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 19146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1a146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1b146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1c146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1d146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1e146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1f146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 20146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 21146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 22146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 23146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 24146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 25146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 26146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 27146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 28146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 29146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2a146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2b146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2c146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2d146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2e146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2f146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 30146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 31146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 32146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 33146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 34146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 35146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 36146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 37146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 38146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 39146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3a146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3b146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3c146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3d146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3e146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3f146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 40146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 41146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 42146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 43146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 44146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 45146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 46146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 47146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 48146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 49146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4a146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4b146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4c146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4d146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4e146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4f146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 50146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 51146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 52146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 53146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 54146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 55146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 56146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 57146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 58146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 59146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5a146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5b146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5c146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5d146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5e146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5f146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 60146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 61146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 62146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 63146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 64146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 65146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 66146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 67146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 68146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 69146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6a146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6b146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6c146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6d146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6e146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6f146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 70146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 71146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 72146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 73146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 74146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 75146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 76146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 77146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 78146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 79146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7a146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7b146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7c146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7d146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7e146266
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7f146266
+<<<<==== xxxx TEST READY END xxxx ====>>>>
+ ______     __   __     ______     __         ______     __   __   ______    
+/\  ___\   /\ "-.\ \   /\  ___\   /\ \       /\  __ \   /\ \ / /  /\  ___\   
+\ \  __\   \ \ \-.  \  \ \ \____  \ \ \____  \ \  __ \  \ \ \//   \ \  __\   
+ \ \_____\  \ \_\ "\_\  \ \_____\  \ \_____\  \ \_\ \_\  \ \__|    \ \_____\ 
+  \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_/\/_/   \/_/      \/_____/ 
+                                                                             
+<<<< 1  >>>> Total time exclude encrypt/hash. Result: 27875608448
+<<<< 2  >>>> Time of encrypt. Result: 342705760
+<<<< 3  >>>> Time of decrypt. Result: 7901760
+<<<< 4  >>>> Time of hash. Result: 342832160
+<<<< 5  >>>> Time of cache access. Result: 1439994688
+<<<< 6  >>>> Total time. Result: 36619268359
+<<<< 7  >>>> Read Req. Result: 150020865
+<<<< 8  >>>> Write Req. Result: 4154662
+<<<< 9  >>>> Warnning. Pre not Requal Req. Result: 67060750
+<<<< 10 >>>> Counter Reset. Result: 1580
+<<<< 11 >>>> Counter Reset read. Result: 98772
+<<<< 12 >>>> Counter Reset write. Result: 98772
+<<<< 13 >>>> Counter Reset hashTime. Result: 7901760
+<<<< 14 >>>> Counter Reset encryption. Result: 7901760
+<<<< 15 >>>> Counter Reset decryption. Result: 7901760
+
+EncCache <<<< 1 >>>> Read. Result: 703245436
+EncCache <<<< 2 >>>> Read hit. Result: 647931116
+EncCache <<<< 3 >>>> Write. Result: 16751908
+EncCache <<<< 4 >>>> Write hit. Result: 14388357
+EncCache <<<< 5 >>>> hit rate. Result: 0.919892
+
+Prediction <<<< 1 >>>> Success. Result: 20304806
+Prediction <<<< 2 >>>> RecvNew During Prediction. Result: 67377312
+Prediction <<<< 3 >>>> Read AES Bias. Result: 4451036619
+Prediction <<<< 4 >>>> Hash Bias. Result: 2159188924

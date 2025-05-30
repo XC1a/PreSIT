@@ -1,0 +1,205 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffe00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is 7fff ====>>>>
+Please check MEM_SIZE to satisfy VAULT arity!
+<<<<======== The vault is ready ========>>>>
+Please check MEM_SIZE to satisfy VAULT arity!
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Oct  4 2023 11:38:53
+gem5 started Oct  6 2023 07:42:59
+gem5 executing on wxrqw, pid 2002857
+command line: YOUR_PATH/gem5/build/RISCV/gem5.opt -d YOUR_PATH/gem5/m5out/checkpoint2 YOUR_PATH/gem5/configs/example/gem5_library/riscv-fs.py --cptPath xx --script YOUR_PATH/programs/scripts/SPEC/run_507.sh
+
+Beginning simulation!
+====<<<<ECNALVE>>>>====: StateEnc IDLE
+<<<<==== xxxx SET INST COUNTER 4294967296 xxxx ====>>>>
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+<<<<==== xxxx TEST Continue xxxx ====>>>> 12726b3 curCycle 26832301027
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2a1cbb1 curCycle 26915405852
+<<<<==== xxxx TEST Continue xxxx ====>>>> 40fe069 curCycle 27029034066
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6c0e764 curCycle 27159589848
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9e1aebe curCycle 27295463724
+<<<<==== xxxx TEST Continue xxxx ====>>>> d02d051 curCycle 27429845329
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1023e60a curCycle 27564159355
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1344379c curCycle 27698803849
+<<<<==== xxxx TEST Continue xxxx ====>>>> 16652ff0 curCycle 27833901680
+<<<<==== xxxx TEST Continue xxxx ====>>>> 19865826 curCycle 27968321499
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1ca787e8 curCycle 28102519492
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1fc7e1a0 curCycle 28237355884
+<<<<==== xxxx TEST Continue xxxx ====>>>> 22e919a2 curCycle 28371951702
+<<<<==== xxxx TEST Continue xxxx ====>>>> 260a52ad curCycle 28505934900
+<<<<==== xxxx TEST Continue xxxx ====>>>> 292b99c3 curCycle 28640362971
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2c4c2cf4 curCycle 28775382058
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2f6d6087 curCycle 28909542212
+<<<<==== xxxx TEST Continue xxxx ====>>>> 328ec2e8 curCycle 29043678770
+<<<<==== xxxx TEST Continue xxxx ====>>>> 35b024da curCycle 29178775509
+<<<<==== xxxx TEST Continue xxxx ====>>>> 38d11bef curCycle 29313639107
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3bf26eda curCycle 29448470762
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3f13d099 curCycle 29583030581
+<<<<==== xxxx TEST Continue xxxx ====>>>> 42353f3d curCycle 29718248852
+<<<<==== xxxx TEST Continue xxxx ====>>>> 43a08636 curCycle 29884863065
+<<<<==== xxxx TEST Continue xxxx ====>>>> 454b8465 curCycle 30059674932
+<<<<==== xxxx TEST Continue xxxx ====>>>> 46f6785e curCycle 30230441616
+<<<<==== xxxx TEST Continue xxxx ====>>>> 48a18989 curCycle 30400208846
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4a4caae3 curCycle 30570512031
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4bf80bcc curCycle 30740120706
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4d4c97fe curCycle 30862490830
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4ea11fa6 curCycle 30981178190
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4ff5a917 curCycle 31098858470
+<<<<==== xxxx TEST Continue xxxx ====>>>> 514a3142 curCycle 31216020605
+<<<<==== xxxx TEST Continue xxxx ====>>>> 529ebf7f curCycle 31334644499
+<<<<==== xxxx TEST Continue xxxx ====>>>> 53f3481e curCycle 31452736111
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5547d1af curCycle 31571035047
+<<<<==== xxxx TEST Continue xxxx ====>>>> 569c594c curCycle 31688567018
+<<<<==== xxxx TEST Continue xxxx ====>>>> 57f0e27d curCycle 31806672524
+<<<<==== xxxx TEST Continue xxxx ====>>>> 59456f12 curCycle 31924555148
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5a99f6a7 curCycle 32043529169
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5bee7ff2 curCycle 32161854466
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5d430840 curCycle 32279223330
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5e9790e3 curCycle 32397735722
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5fec198a curCycle 32516436228
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6140a2bb curCycle 32634941270
+<<<<==== xxxx TEST Continue xxxx ====>>>> 62952bc7 curCycle 32752792557
+<<<<==== xxxx TEST Continue xxxx ====>>>> 63e9b362 curCycle 32871038865
+<<<<==== xxxx TEST Continue xxxx ====>>>> 655cca8d curCycle 32999900666
+<<<<==== xxxx TEST Continue xxxx ====>>>> 67213816 curCycle 33163033281
+<<<<==== xxxx TEST Continue xxxx ====>>>> 68c472a6 curCycle 33260599573
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6a24fcb0 curCycle 33442865213
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6b85883f curCycle 33620206110
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6cdee413 curCycle 33790322935
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6dff96fe curCycle 33907229555
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6f204f53 curCycle 34022725748
+<<<<==== xxxx TEST Continue xxxx ====>>>> 704102b6 curCycle 34138041449
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7161b5d4 curCycle 34250929134
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7282686e curCycle 34364155978
+<<<<==== xxxx TEST Continue xxxx ====>>>> 73a31cae curCycle 34478388231
+<<<<==== xxxx TEST Continue xxxx ====>>>> 74c3cf84 curCycle 34592467409
+<<<<==== xxxx TEST Continue xxxx ====>>>> 75e48279 curCycle 34707917145
+<<<<==== xxxx TEST Continue xxxx ====>>>> 77053626 curCycle 34822485050
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7825e8a1 curCycle 34935770169
+<<<<==== xxxx TEST Continue xxxx ====>>>> 79469ffd curCycle 35049034666
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7a67535d curCycle 35163216287
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7b880e7e curCycle 35278147819
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7ca8c1d6 curCycle 35394021811
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7dc97512 curCycle 35508717130
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7eea2838 curCycle 35621752771
+<<<<==== xxxx TEST Continue xxxx ====>>>> 800adbb9 curCycle 35735365291
+<<<<==== xxxx TEST Continue xxxx ====>>>> 812b8e91 curCycle 35849384785
+<<<<==== xxxx TEST Continue xxxx ====>>>> 824c41d6 curCycle 35964939121
+<<<<==== xxxx TEST Continue xxxx ====>>>> 836cf873 curCycle 36080611835
+<<<<==== xxxx TEST Continue xxxx ====>>>> 848daa6c curCycle 36194435157
+<<<<==== xxxx TEST Continue xxxx ====>>>> 85ae5cc7 curCycle 36307391404
+<<<<==== xxxx TEST Continue xxxx ====>>>> 86cf0fed curCycle 36421269539
+<<<<==== xxxx TEST Continue xxxx ====>>>> 88462970 curCycle 36547202789
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8a94ff54 curCycle 36742083740
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8c59ad1b curCycle 36853345619
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8e1e7ff4 curCycle 36958905554
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8fe34dd8 curCycle 37064887896
+<<<<==== xxxx TEST Continue xxxx ====>>>> 91a7fe6a curCycle 37170836465
+<<<<==== xxxx TEST Continue xxxx ====>>>> 936cd137 curCycle 37276631458
+<<<<==== xxxx TEST Continue xxxx ====>>>> 95319f94 curCycle 37382608052
+<<<<==== xxxx TEST Continue xxxx ====>>>> 96f6500c curCycle 37488292738
+<<<<==== xxxx TEST Continue xxxx ====>>>> 98bb417a curCycle 37594088169
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9a7fee8e curCycle 37700072338
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9c449cde curCycle 37806030406
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9e0990ff curCycle 37911940956
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9fcf32e9 curCycle 38018650839
+<<<<==== xxxx TEST Continue xxxx ====>>>> a193de85 curCycle 38124585891
+<<<<==== xxxx TEST Continue xxxx ====>>>> a358d21d curCycle 38230281582
+<<<<==== xxxx TEST Continue xxxx ====>>>> a51d8135 curCycle 38336511787
+<<<<==== xxxx TEST Continue xxxx ====>>>> a6e250b7 curCycle 38442758506
+<<<<==== xxxx TEST Continue xxxx ====>>>> a8a72357 curCycle 38548544235
+<<<<==== xxxx TEST Continue xxxx ====>>>> aa6bd04b curCycle 38654713284
+<<<<==== xxxx TEST Continue xxxx ====>>>> ac309f6b curCycle 38760555161
+<<<<==== xxxx TEST Continue xxxx ====>>>> adf56c45 curCycle 38866607020
+<<<<==== xxxx TEST Continue xxxx ====>>>> afba1ad1 curCycle 38972790805
+<<<<==== xxxx TEST Continue xxxx ====>>>> b17ee7f7 curCycle 39078971852
+<<<<==== xxxx TEST Continue xxxx ====>>>> b343b691 curCycle 39185413129
+<<<<==== xxxx TEST Continue xxxx ====>>>> b508677c curCycle 39291766926
+<<<<==== xxxx TEST Continue xxxx ====>>>> b6cd3231 curCycle 39397691723
+<<<<==== xxxx TEST Continue xxxx ====>>>> b89201a9 curCycle 39503434568
+<<<<==== xxxx TEST Continue xxxx ====>>>> ba56b208 curCycle 39609544677
+<<<<==== xxxx TEST Continue xxxx ====>>>> bc1b814f curCycle 39715535108
+<<<<==== xxxx TEST Continue xxxx ====>>>> bde05151 curCycle 39821501085
+<<<<==== xxxx TEST Continue xxxx ====>>>> bfa5206f curCycle 39927417953
+<<<<==== xxxx TEST Continue xxxx ====>>>> c169d0c8 curCycle 40033415884
+<<<<==== xxxx TEST Continue xxxx ====>>>> c32e7f67 curCycle 40139236539
+<<<<==== xxxx TEST Continue xxxx ====>>>> c4f3706b curCycle 40244954186
+<<<<==== xxxx TEST Continue xxxx ====>>>> c6b81d68 curCycle 40350904302
+<<<<==== xxxx TEST Continue xxxx ====>>>> c87ccadf curCycle 40457172468
+<<<<==== xxxx TEST Continue xxxx ====>>>> ca41c0ac curCycle 40563029569
+<<<<==== xxxx TEST Continue xxxx ====>>>> cc066ccf curCycle 40668965955
+<<<<==== xxxx TEST Continue xxxx ====>>>> cdcb182e curCycle 40774829452
+<<<<==== xxxx TEST Continue xxxx ====>>>> cf900d2e curCycle 40880701540
+<<<<==== xxxx TEST Continue xxxx ====>>>> d154bdf2 curCycle 40986801484
+<<<<==== xxxx TEST Continue xxxx ====>>>> d3196a46 curCycle 41093024570
+<<<<==== xxxx TEST Continue xxxx ====>>>> d4de5cab curCycle 41199174532
+<<<<==== xxxx TEST Continue xxxx ====>>>> d6a30c8c curCycle 41305400473
+<<<<==== xxxx TEST Continue xxxx ====>>>> d867df8d curCycle 41411387285
+<<<<==== xxxx TEST Continue xxxx ====>>>> da2cac6e curCycle 41517109981
+<<<<==== xxxx TEST Continue xxxx ====>>>> dbf15caa curCycle 41623497111
+<<<<==== xxxx TEST Continue xxxx ====>>>> ddb62f14 curCycle 41729903346
+<<<<==== xxxx TEST Continue xxxx ====>>>> df7afc81 curCycle 41836178653
+<<<<==== xxxx TEST Continue xxxx ====>>>> e13fa907 curCycle 41942627946
+<<<<==== xxxx TEST Continue xxxx ====>>>> e304788d curCycle 42048587230
+<<<<==== xxxx TEST Continue xxxx ====>>>> e4c94794 curCycle 42154739099
+<<<<==== xxxx TEST Continue xxxx ====>>>> e68df588 curCycle 42260996208
+<<<<==== xxxx TEST Continue xxxx ====>>>> e852c4bb curCycle 42367191625
+<<<<==== xxxx TEST Continue xxxx ====>>>> ea179744 curCycle 42473012330
+<<<<==== xxxx TEST Continue xxxx ====>>>> ebdc4846 curCycle 42579107471
+<<<<==== xxxx TEST Continue xxxx ====>>>> eda11537 curCycle 42684923290
+<<<<==== xxxx TEST Continue xxxx ====>>>> ef65e4b3 curCycle 42790551982
+<<<<==== xxxx TEST Continue xxxx ====>>>> f12aba50 curCycle 42896835136
+<<<<==== xxxx TEST Continue xxxx ====>>>> f2ef6832 curCycle 43002931260
+<<<<==== xxxx TEST Continue xxxx ====>>>> f4b43380 curCycle 43108940830
+<<<<==== xxxx TEST Continue xxxx ====>>>> f679098a curCycle 43215013598
+<<<<==== xxxx TEST Continue xxxx ====>>>> f83db6a9 curCycle 43320750076
+<<<<==== xxxx TEST Continue xxxx ====>>>> fa02828b curCycle 43426594141
+<<<<==== xxxx TEST Continue xxxx ====>>>> fbc755da curCycle 43532558693
+<<<<==== xxxx TEST Continue xxxx ====>>>> fd8c029d curCycle 43638611577
+<<<<==== xxxx TEST Continue xxxx ====>>>> ff50b384 curCycle 43744848125
+<<<<==== xxxx TEST READY END xxxx ====>>>>
+ ______     __   __     ______     __         ______     __   __   ______    
+/\  ___\   /\ "-.\ \   /\  ___\   /\ \       /\  __ \   /\ \ / /  /\  ___\   
+\ \  __\   \ \ \-.  \  \ \ \____  \ \ \____  \ \  __ \  \ \ \//   \ \  __\   
+ \ \_____\  \ \_\ "\_\  \ \_____\  \ \_____\  \ \_\ \_\  \ \__|    \ \_____\ 
+  \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_/\/_/   \/_/      \/_____/ 
+                                                                             
+<<<< 1  >>>> Total time exclude encrypt/hash. Result: 17008540414
+<<<< 2  >>>> Time of encrypt. Result: 542599600
+<<<< 3  >>>> Time of decrypt. Result: 16640
+<<<< 4  >>>> Time of hash. Result: 542910960
+<<<< 5  >>>> Time of cache access. Result: 327119130
+<<<< 6  >>>> Total time. Result: 19002217597
+<<<< 7  >>>> Read Req. Result: 13474327
+<<<< 8  >>>> Write Req. Result: 6778368
+<<<< 9  >>>> Warnning. Pre not Requal Req. Result: 15569988
+<<<< 10 >>>> Counter Reset. Result: 1925
+<<<< 11 >>>> Counter Reset read. Result: 121147
+<<<< 12 >>>> Counter Reset write. Result: 121147
+<<<< 13 >>>> Counter Reset hashTime. Result: 173680
+<<<< 14 >>>> Counter Reset encryption. Result: 16640
+<<<< 15 >>>> Counter Reset decryption. Result: 16640
+<<<< 16 >>>> Counter Reset cryption Bias. Result: 11918
+<<<< 17 >>>> Counter Reset Hash Bias. Result: 14375
+
+EncCache <<<< 1 >>>> Read. Result: 122840726
+EncCache <<<< 2 >>>> Read hit. Result: 115211540
+EncCache <<<< 3 >>>> Write. Result: 40718839
+EncCache <<<< 4 >>>> Write hit. Result: 37460986
+EncCache <<<< 5 >>>> hit rate. Result: 0.933437
+
+Prediction <<<< 1 >>>> Success. Result: 1524632
+Prediction <<<< 2 >>>> RecvNew During Prediction. Result: 9801403
+Prediction <<<< 3 >>>> Read AES Bias. Result: 256380810
+Prediction <<<< 4 >>>> Hash Bias. Result: 141998699
+Prediction <<<< 5 >>>> Prediction save AES time. Result: 17196267
+Prediction <<<< 6 >>>> Prediction pre-cal bias time. Result: 182625051

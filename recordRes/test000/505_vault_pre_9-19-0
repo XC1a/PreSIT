@@ -1,0 +1,188 @@
+Global frequency set at 1000000000000 ticks per second
+<<<==== EncCache TagMask is initializing ====>>>>
+<<<==== EncCache TagMask is ffffffffffe00000 ====>>>>
+<<<==== EncCache OffMask is 3f ====>>>>
+<<<==== EncCache InxMask is 7fff ====>>>>
+<<<<======== The vault is ready ========>>>>
+<<<<======== The vault is ready ========>>>>
+      0: board.platform.rtc: Real-time clock set to Sun Jan  1 00:00:00 2012
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Sep 19 2023 20:26:44
+gem5 started Sep 19 2023 21:39:46
+gem5 executing on wxrqw, pid 1252151
+command line: ./build/RISCV/gem5.opt configs/example/gem5_library/riscv-fs.py
+
+Beginning simulation!
+SET FLAG
+<<<<==== xxxx SET INST COUNTER 0 xxxx ====>>>>
+658259681340000: board.platform.terminal: attach terminal 0
+<<<<==== xxxx SET INST COUNTER 2147483648 xxxx ====>>>>
+SET FLAG
+<<<<==== xxxx TEST BEGIN xxxx ====>>>>
+<<<<==== xxxx TEST Continue xxxx ====>>>> fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 8fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 9fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> afa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> bfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> cfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> dfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> efa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> ffa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 10fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 11fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 12fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 13fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 14fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 15fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 16fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 17fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 18fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 19fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1afa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1bfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1cfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1dfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1efa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 1ffa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 20fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 21fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 22fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 23fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 24fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 25fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 26fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 27fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 28fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 29fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2afa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2bfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2cfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2dfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2efa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 2ffa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 30fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 31fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 32fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 33fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 34fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 35fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 36fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 37fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 38fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 39fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3afa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3bfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3cfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3dfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3efa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 3ffa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 40fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 41fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 42fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 43fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 44fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 45fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 46fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 47fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 48fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 49fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4afa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4bfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4cfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4dfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4efa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 4ffa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 50fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 51fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 52fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 53fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 54fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 55fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 56fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 57fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 58fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 59fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5afa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5bfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5cfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5dfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5efa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 5ffa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 60fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 61fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 62fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 63fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 64fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 65fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 66fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 67fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 68fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 69fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6afa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6bfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6cfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6dfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6efa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 6ffa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 70fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 71fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 72fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 73fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 74fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 75fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 76fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 77fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 78fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 79fa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7afa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7bfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7cfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7dfa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7efa4c10
+<<<<==== xxxx TEST Continue xxxx ====>>>> 7ffa4c10
+<<<<==== xxxx TEST READY END xxxx ====>>>>
+ ______     __   __     ______     __         ______     __   __   ______    
+/\  ___\   /\ "-.\ \   /\  ___\   /\ \       /\  __ \   /\ \ / /  /\  ___\   
+\ \  __\   \ \ \-.  \  \ \ \____  \ \ \____  \ \  __ \  \ \ \//   \ \  __\   
+ \ \_____\  \ \_\ "\_\  \ \_____\  \ \_____\  \ \_\ \_\  \ \__|    \ \_____\ 
+  \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_/\/_/   \/_/      \/_____/ 
+                                                                             
+<<<< 1  >>>> Total time exclude encrypt/hash. Result: 27867795835
+<<<< 2  >>>> Time of encrypt. Result: 334603680
+<<<< 3  >>>> Time of decrypt. Result: 640
+<<<< 4  >>>> Time of hash. Result: 334864560
+<<<< 5  >>>> Time of cache access. Result: 1439877678
+<<<< 6  >>>> Total time. Result: 36187801099
+<<<< 7  >>>> Read Req. Result: 150005131
+<<<< 8  >>>> Write Req. Result: 4153938
+<<<< 9  >>>> Warnning. Pre not Requal Req. Result: 67065982
+<<<< 10 >>>> Counter Reset. Result: 1553
+<<<< 11 >>>> Counter Reset read. Result: 97007
+<<<< 12 >>>> Counter Reset write. Result: 97007
+<<<< 13 >>>> Counter Reset hashTime. Result: 135200
+<<<< 14 >>>> Counter Reset encryption. Result: 640
+<<<< 15 >>>> Counter Reset decryption. Result: 640
+<<<< 16 >>>> Counter Reset cryption Bias. Result: 10855
+<<<< 17 >>>> Counter Reset Hash Bias. Result: 34124
+
+EncCache <<<< 1 >>>> Read. Result: 703191006
+EncCache <<<< 2 >>>> Read hit. Result: 647933185
+EncCache <<<< 3 >>>> Write. Result: 16747833
+EncCache <<<< 4 >>>> Write hit. Result: 14385099
+EncCache <<<< 5 >>>> hit rate. Result: 0.919965
+
+Prediction <<<< 1 >>>> Success. Result: 20301406
+Prediction <<<< 2 >>>> RecvNew During Prediction. Result: 67380251
+Prediction <<<< 3 >>>> Read AES Bias. Result: 4051637527
+Prediction <<<< 4 >>>> Hash Bias. Result: 2158976200
+Prediction <<<< 5 >>>> Prediction save AES time. Result: 399334167
