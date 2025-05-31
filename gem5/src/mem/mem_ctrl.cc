@@ -3044,37 +3044,6 @@ MemCtrl::recvTimingReq(PacketPtr pkt)
             noNeedTreeCheck = false;
         }
 
-        uint8_t xx[64] = {0};
-        if (memcmp(xx,pkt->getPtr<uint8_t>(),64) == 0)
-        {
-            equal0 ++;
-            if (pkt->isRead())
-            {
-                // std::cout<<"R  --------+++++++++ "<<equal0<<" "<<EncS.EncReadReq<<" "<<std::hex<<pkt->getAddr()<<std::dec<<std::endl;
-            }
-            else
-            {
-                // std::cout<<"W  --------+++++++++ "<<equal0<<" "<<EncS.EncWriteReq<<" "<<std::hex<<pkt->getAddr()<<std::dec<<std::endl;
-            }
-        }
-
-        if (memcmp(LastWrite,pkt->getPtr<uint8_t>(),64) == 0)
-        {
-            equalSame ++;
-            if (pkt->isWrite())
-            {
-                // std::cout<<"W  +++++++++++++---------------"<<equalSame<<" "<<EncS.EncWriteReq<<" "<<std::hex<<pkt->getAddr()<<" "<<pkt->getSize()<<std::dec<<std::endl;
-            }
-        }
-
-
-        if (pkt->isWrite())
-        {
-            memcpy(LastWrite,pkt->getPtr<uint8_t>(),64);
-        }
-        else{
-            memcpy(LastRead,pkt->getPtr<uint8_t>(),64);
-        }
         
         
         #if STATE_DEBUG 
