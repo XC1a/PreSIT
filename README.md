@@ -1,3 +1,5 @@
+# PreSIT: Predict Cryptography Computations in SGX-Style Integrity Trees
+
 # 1. Introduction of this Repo
 
 This repository contains the simulation of PreSIT based on GEM5 FS mode. PreSIT can predict the cryptographic resulst in SGX-style Integrity Tree (SIT) to reduce the performance overhead caused by SIT. Two kinds of computations will be predicted, including AES decryption and Message Authentication Code (MAC). More details are shown in IEEE TCAD 2025 Paper:
@@ -75,6 +77,7 @@ After getting the exeuction files and preparing the linux system, you can run th
 #define _MEM 16              //line 110
 #define ATT1 false           //line 134
 #define ATT2 false           //line 135
+#define ONLY_4KB false       //line 137
 ```
 - `ENC_PROTECT` indicates if we enable the integrity tree operations, which can be used when we want to obtain the checkpoint.
 - `TURNON_PRE` indicates if we enable `PreSIT-BASIC` mentioned in the paper, which means we predit MAC + 1 OTP.
@@ -86,6 +89,7 @@ After getting the exeuction files and preparing the linux system, you can run th
 - `_MEM` indicates the memory size to calculate the address mask. `16` means 16GB.
 - `ATT1` indicates if we are simulating the rowhammer attack.
 - `ATT2` indicates if we are simulating the replay attack.
+- `ONLY_4KB` indicates if we only check the beginning address of the 4kb region.
 
 And please further manually modify the `memSize` in `line 79` of `gem5/configs/example/gem5_library/riscv-fs.py`.
 

@@ -3023,7 +3023,7 @@ MemCtrl::recvTimingReq(PacketPtr pkt)
     bool equal2Global = thisId == GlobalThreadID;
     equal2Global = true;
         
-    if (stateEnc == StatesEnc::READY && pktNoSignal && ENC_PROTECT && !enc_endtest)
+    if (stateEnc == StatesEnc::READY && pktNoSignal && ENC_PROTECT && !enc_endtest && ((ONLY_4KB && (pkt->req->getAddr()&0xFFF == 0)) || (!ONLY_4KB)))
     {
         if (pkt->isWrite())
         {

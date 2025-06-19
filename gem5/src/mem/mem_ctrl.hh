@@ -134,6 +134,7 @@ extern uint64_t trace_global_cnt;
 #define ATT1 false
 #define ATT2 false
 
+#define ONLY_4KB false
 //---------------------------wxr
 namespace gem5
 {
